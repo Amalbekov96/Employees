@@ -1,8 +1,5 @@
 # Employees
 
-1 10000 02.07.2021 08:44:13 31.07.2021 23:59:59 1
-2 15000 01.08.2021 00:00:00 31.12.2999 1
-
 Select salary from salaries where emp_id = 1 and sysdate between start_date and end_date
 
 Сотрудники:
